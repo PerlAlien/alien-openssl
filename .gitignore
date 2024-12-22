@@ -1,3 +1,5 @@
 /Alien-OpenSSL-*
 /.build
 *.swp
+*.old
+*.orig
